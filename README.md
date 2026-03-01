@@ -33,4 +33,4 @@ I work at the intersection of software engineering and artificial intelligence -
 ### Connect
 
 [![Automate Impact](https://img.shields.io/badge/Automate_Impact-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://automateimpact.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikesewell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikesewell-/)
